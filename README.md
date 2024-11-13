@@ -1,4 +1,4 @@
-https://profile.intra.42.fr\n
+https://profile.intra.42.fr
 ログインをして、自分の名前を押す。
 settings/
 　├ information/
